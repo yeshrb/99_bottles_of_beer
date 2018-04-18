@@ -1,10 +1,7 @@
-The beersong
+##The beersong
 In this puzzle, write code to print out the entire "99 bottles of beer on the wall" song.
 For those who do not know the song, the lyrics follow this form:
 
-The beersong
-In this puzzle, write code to print out the entire "99 bottles of beer on the wall" song.
-For those who do not know the song, the lyrics follow this form:
 
     X bottles of beer on the wall, X bottles of beer.
     Take one down, pass it around, X-1 bottles of beer on the wall.
@@ -20,3 +17,9 @@ last two paragraph is different. It should be:
     Go to the store and buy some more, 99 bottles of beer on the wall.
     
 
+## Install
+`npm install`
+## run
+`npm start`
+##test
+`npm test`

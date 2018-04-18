@@ -4,7 +4,8 @@
   "description": "The beersong In this puzzle, write code to print out the entire \"99 bottles of beer on the wall\" song. For those who do not know the song, the lyrics follow this form:",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node App.js",
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
